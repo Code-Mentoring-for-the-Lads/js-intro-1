@@ -1,0 +1,12 @@
+{
+  "name": "js-intro",
+  "version": "1.0.0",
+  "description": "This repository contains a simple exercise to help you get started with JavaScript programming.",
+  "main": "example.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
