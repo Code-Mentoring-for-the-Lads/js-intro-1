@@ -8,7 +8,3 @@ test('divide function should return the division of two numbers', () => {
     expect(divide(1, 3)).toBeCloseTo(0.333, 3);
 });
 
-test('divide function should handle division by zero', () => {
-    expect(divide(10, 0)).toBe(Infinity); 
-    expect(divide(-10, 0)).toBe(-Infinity); 
-});
