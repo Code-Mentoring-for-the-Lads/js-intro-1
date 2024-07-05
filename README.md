@@ -17,4 +17,4 @@ This repository contains a simple exercise to help you get started with JavaScri
 
 ## Commit Your Work to the Repository
 
-As you did yesterday, follow the same procedure you did yesterday to add and commit your work to the repository.
+Follow the same procedure you did yesterday to add and commit your work to the repository.
