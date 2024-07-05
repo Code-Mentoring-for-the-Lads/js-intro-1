@@ -1,12 +1,20 @@
 {
-  "name": "js-intro",
+  "name": "js-intro-practice",
   "version": "1.0.0",
-  "description": "This repository contains a simple exercise to help you get started with JavaScript programming.",
+  "description": "This repository contains simple exercises to help you get started with JavaScript programming.",
   "main": "example.js",
   "scripts": {
-    "test": "node example.js"
+    "test": "jest",
+    "test:sum": "jest __tests__/sum.test.js",
+    "test:divide": "jest __tests__/divide.test.js",
+    "test:greet": "jest __tests__/greet.test.js",
+    "test:multiply": "jest __tests__/multiply.test.js",
+    "test:subtract": "jest __tests__/subtract.test.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
 }

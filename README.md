@@ -1,20 +1,19 @@
 # JavaScript Intro Practice
 
-This repository contains a simple exercise to help you get started with JavaScript programming.
+This repository contains simple exercises to help you get started with JavaScript programming.
 
 ## Instructions
 
-1. Fork this repository to your local machine.
+1. Clone this repository to your local machine.
 2. Open the project directory in your favorite text editor.
-3. Open the `example.js` file and follow the steps below.
 
-## Writing Your First Program
+## Data Types and Functions
 
-1. Open the `example.js` file.
-2. Write code inside the file to print the following:
-- `Hello Lads, Its Me, The Nigerian Lion.`
-3. Add some comments. Include Single-Line and Multi-line Comments.
+### Data Types
 
-## Commit Your Work to the Repository
+1. Open the `Data Types` folder.
+2. Follow the instructions in each file to practice writing functions.
 
-Follow the same procedure you did yesterday to add and commit your work to the repository.
+### Functions
+
+A **function** is a set of instructions that performs a specific task. Functions can take inputs (called parameters) and can return an output.
